@@ -5,6 +5,8 @@ date: 2023-08-24 00:00:00+0000
 math: true
 ---
 
+testtesttesttesttesttesttesttesttesttesttesttesttest
+
 Stack has built-in support for math typesetting using [KaTeX](https://katex.org/).
 
 **It's not enabled by default side-wide,** but you can enable it for individual posts by adding `math: true` to the front matter. Or you can enable it side-wide by adding `math = true` to the `params.article` section in `config.toml`.
